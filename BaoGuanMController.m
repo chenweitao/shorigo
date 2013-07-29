@@ -6,7 +6,7 @@
 //  Copyright (c) 2013年 admin. All rights reserved.
 //
 
-//hello world!fhdhgfhfdhgf
+//hello wor
 
 #import "BaoGuanMController.h"
 
